@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ziaul Hussain Khan 👋  <br>B.Tech CSE student at :Srinath University.  <br>Interested in Data Analytics, AI, and Software Development.  <br>Completed a 6-month internship at :ITR, DRDO.  <br>Currently learning Python, SQL, Data Visualization, and Machine Learning.
+Hi, I'm Ziaul Hussan Khan 👋  <br>B.Tech CSE student at :Srinath University.  <br>Interested in Data Analytics, AI, and Software Development.  <br>Completed a 6-month internship at :ITR, DRDO.  <br>Currently learning Python, SQL, Data Visualization, and Machine Learning.
 
 
 ## 🌐 Socials:
